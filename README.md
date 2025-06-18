@@ -1,5 +1,3 @@
-# Ethically_Hacking_S25 Ultra
-
 # 🔐 Ethically Hacking My Samsung S25 Ultra
 
 ## 📱 Project Overview
